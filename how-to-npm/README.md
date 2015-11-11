@@ -2,4 +2,5 @@
 
 ### Pre Workshop
 - a package managing system
-- an installer 
+- a task runner
+- general coordinator/conductor of all our development commands
