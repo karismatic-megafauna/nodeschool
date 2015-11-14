@@ -16,7 +16,5 @@
   ],
   "author": "michaelghinrichs",
   "license": "MIT",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
