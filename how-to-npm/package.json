@@ -1,6 +1,6 @@
 {
   "name": "@shadow/how-to-npm",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Learning how to create NPM packages",
   "main": "index.js",
   "scripts": {
